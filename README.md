@@ -1,5 +1,9 @@
 ### Hi there 👋
-:running: 
+I'm Daniel, Backend node and GO developer
+too i have knowledge in react, react-native
+Currently i'm computer science studend at Universidad de Buenos Aires
+
+also i'm marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
 <!--
 **dani54196/dani54196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
