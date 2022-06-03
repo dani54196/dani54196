@@ -10,12 +10,13 @@ I’m currently open for: `An Intern` or a new `job opportunity`
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-
-![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
 ![R](https://img.shields.io/badge/-R-ff69b4?style=flat-square&logo=R)
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff69b4?style=flat-square&logo=Ubuntu)
+![Vim](https://img.shields.io/badge/-Vim-ff69b4?style=flat-square&logo=Vim)
 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -23,13 +24,15 @@ I’m currently open for: `An Intern` or a new `job opportunity`
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-ff69b4?style=flat-square&logo=Nginx)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ☁️
+
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 
