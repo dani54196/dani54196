@@ -4,8 +4,8 @@ too i have knowledge in react, react-native and docker
 Currently i'm computer science studend at Universidad de Buenos Aires
 
 also i'm marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
+![dani54196's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani54196&hide=contribs,prs)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dani54196)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dani54196/dani54196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
