@@ -12,31 +12,31 @@ I’m currently open for a new job opportunity
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
 
-**📇 DataBases** 
+**📇 DataBases:** 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 **S.O.:**
-![Linux](https://img.shields.io/badge/-Linux-ff69b4?style=flat-square&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
 
-**🪛 Deploy Tools** 
+**Deploy Tools** 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-ff69b4?style=flat-square&logo=Nginx)
+![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx)
 ![Ssh](https://img.shields.io/badge/-Ssh-success?style=flat-square&logo=Ssh)
 
-**🪛 Tools **
+**🪛 Tools:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Terminal](https://img.shields.io/badge/-Terminal-success?style=flat-square&logo=terminal)
+![Terminal](https://img.shields.io/badge/-Terminal-black?style=flat-square&logo=terminal)
 ![Vim](https://img.shields.io/badge/-Vim-success?style=flat-square&logo=Vim)
-![Code](https://img.shields.io/badge/-Code-success?style=flat-square&logo=Code)
+![Code](https://img.shields.io/badge/-Code-blue?style=flat-square&logo=visual-studio-code)
 
-**☁️ Cloud Services**
+**☁️ Cloud Services:**
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-orange?style=flat-square&logo=amazon-aws)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 **👁️ Frontend**
