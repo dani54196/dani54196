@@ -3,37 +3,36 @@ I'm Daniel, Backend node developer
 Currently i'm computer science studend at Universidad de Buenos Aires
 too i have knowledge in Docker, react 
 
-I’m currently open for: `An Intern` or a new `job opportunity`
+I’m currently open for a new job opportunity
 
 ### Currently working with:
-**Languages**
+**Languages:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
-
-**SO**
-![Linux](https://img.shields.io/badge/-Linux-ff69b4?style=flat-square&logo=Linux)
-![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
-
-**🪛 Tools** 
-![Vim](https://img.shields.io/badge/-Vim-success?style=flat-square&logo=Vim)
-![Zsh](https://img.shields.io/badge/-Zsh-success?style=flat-square&logo=Zsh)
-![Ssh](https://img.shields.io/badge/-Ssh-success?style=flat-square&logo=Ssh)
 
 **📇 DataBases** 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
-**📦 Container**
+**S.O.:**
+![Linux](https://img.shields.io/badge/-Linux-ff69b4?style=flat-square&logo=Linux)
+![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
+
+**🪛 Deploy Tools** 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-ff69b4?style=flat-square&logo=Nginx)
+![Ssh](https://img.shields.io/badge/-Ssh-success?style=flat-square&logo=Ssh)
 
-**☑️ Version**
+**🪛 Tools **
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Terminal](https://img.shields.io/badge/-Terminal-success?style=flat-square&logo=terminal)
+![Vim](https://img.shields.io/badge/-Vim-success?style=flat-square&logo=Vim)
+![Code](https://img.shields.io/badge/-Code-success?style=flat-square&logo=Code)
 
 **☁️ Cloud Services**
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
