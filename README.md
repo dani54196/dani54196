@@ -6,34 +6,34 @@ too i have knowledge in Docker, react
 I’m currently open for: `An Intern` or a new `job opportunity`
 
 ### Currently working with:
-** Languages **
+**Languages**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
-** SO **
+**SO**
 ![Linux](https://img.shields.io/badge/-Linux-ff69b4?style=flat-square&logo=Linux)
 ![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
-** Tools **
+**🪛 Tools** 
 ![Vim](https://img.shields.io/badge/-Vim-success?style=flat-square&logo=Vim)
 ![Zsh](https://img.shields.io/badge/-Zsh-success?style=flat-square&logo=Zsh)
 ![Ssh](https://img.shields.io/badge/-Ssh-success?style=flat-square&logo=Ssh)
-** DataBases **
+**📇 DataBases** 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-** :Box Container **
+**📦 Container**
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-ff69b4?style=flat-square&logo=Nginx)
-** :check Version **
+**☑️ Version**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-** ☁️ Cloud Services **
+**☁️ Cloud Services**
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-** :eye Frontend **
+**👁️ Frontend**
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress)
