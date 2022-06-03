@@ -11,7 +11,8 @@ I’m currently open for: `An Intern` or a new `job opportunity`
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
-![Debian](https://img.shields.io/badge/-Debian-007ACC?style=flat-square&logo=Debian)
+![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
+![R](https://img.shields.io/badge/-R-ff69b4?style=flat-square&logo=R)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
