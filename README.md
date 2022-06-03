@@ -1,7 +1,6 @@
 ### Hi there 👋
-I'm Daniel, Backend node developer
-Currently i'm computer science studend at Universidad de Buenos Aires
-too i have knowledge in Docker, react 
+I'm Daniel, Backend developer
+🌱 Currently i'm computer science studend at Universidad de Buenos Aires
 
 I’m currently open for a new job opportunity
 
@@ -45,7 +44,7 @@ I’m currently open for a new job opportunity
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress)
 
 ### ⚡ Fun fact:
-also i'm marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
+I ❤️ love endurance sports, i'm marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
 
 ### 📫 Connect with me
 <p align="left">
