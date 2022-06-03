@@ -16,7 +16,7 @@ I’m currently open for: `An Intern` or a new `job opportunity`
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff69b4?style=flat-square&logo=Ubuntu)
 ![Vim](https://img.shields.io/badge/-Vim-ff69b4?style=flat-square&logo=Vim)
 
-![Bash](https://img.shields.io/badge/-Bash-ff69b4?style=flat-square&logo=Bash)
+![Terminal](https://img.shields.io/badge/-Terminal-ff69b4?style=flat-square&logo=Terminal)
 
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
