@@ -8,15 +8,15 @@ I’m currently open for: `An Intern` or a new `job opportunity`
 **Currently working with:**
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![R](https://img.shields.io/badge/-R-ff69b4?style=flat-square&logo=R)
+![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
 
 ![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff69b4?style=flat-square&logo=Ubuntu)
-![Vim](https://img.shields.io/badge/-Vim-ff69b4?style=flat-square&logo=Vim)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
+![Vim](https://img.shields.io/badge/-Vim-success?style=flat-square&logo=Vim)
 
-![Terminal](https://img.shields.io/badge/-Terminal-ff69b4?style=flat-square&logo=Terminal)
+![Linux](https://img.shields.io/badge/-Linux-ff69b4?style=flat-square&logo=Linux)
 
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
