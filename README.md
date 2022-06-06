@@ -37,7 +37,6 @@ I’m currently open for a new job opportunity
 **☁️ Cloud Services:**
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-orange?style=flat-square&logo=amazon-aws)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 **👁️ Frontend:**
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
