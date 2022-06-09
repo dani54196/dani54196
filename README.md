@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Daniel, Backend developer
 
-🌱 Currently i'm computer science studend at Universidad de Buenos Aires
+🌱 I'm computer science student at Universidad de Buenos Aires
 
-I’m currently open for a new job opportunity
+🖐️ also i’m currently open for a new job opportunity
 
 ### Currently working with:
 **Languages:**
