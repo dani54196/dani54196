@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Daniel, Backend developer
+I'm Daniel,freelance, Backend developer
 
 🌱 I'm computer science student at Universidad de Buenos Aires
 
