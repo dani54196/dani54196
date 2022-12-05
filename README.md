@@ -1,8 +1,12 @@
 ### Hi there 👋
-I'm Daniel,freelance, Backend developer
+I'm Daniel,i'm FullStack freelance with MERN Stack
 
 🌱 I'm computer science student at Universidad de Buenos Aires
-
+🔭 I’m currently working on Software of South as a freelance
+🌱 I’m currently learning GO, Kubernetes
+👯 I’m looking to collaborate on 
+🤔 I’m looking for help with CI/CD
+💬 Ask me about MERN stack, Math
 🖐️ also i’m currently open for a new job opportunity
 
 ### Currently working with:
