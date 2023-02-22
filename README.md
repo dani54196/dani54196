@@ -18,8 +18,8 @@ I'm Daniel,i'm Backend (Go, Nodejs)
 
 ### Currently working with:
 **Languages:**
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![Go](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
