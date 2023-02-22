@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Daniel,i'm Backend (Go, Nodejs)
+I'm Daniel, I'm Backend Developer (Go, Nodejs)
 
 🌱 I'm computer science student at Universidad de Buenos Aires
 
@@ -7,7 +7,7 @@ I'm Daniel,i'm Backend (Go, Nodejs)
 
 🌱 I’m currently learning CI/CD tools
 
-👯 I’m looking to collaborate on 
+👯 I’m looking to collaborate on Open Source
 
 🤔 I’m looking for help with Kubernetes
 
