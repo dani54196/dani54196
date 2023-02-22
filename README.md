@@ -1,17 +1,17 @@
 ### Hi there 👋
-I'm Daniel,i'm FullStack freelance with MERN Stack
+I'm Daniel,i'm Backend (Go, Nodejs)
 
 🌱 I'm computer science student at Universidad de Buenos Aires
 
 🔭 I’m currently working on Software of South as a freelance
 
-🌱 I’m currently learning GO, Kubernetes
+🌱 I’m currently learning CI/CD tools
 
 👯 I’m looking to collaborate on 
 
-🤔 I’m looking for help with CI/CD
+🤔 I’m looking for help with Kubernetes
 
-💬 Ask me about MERN stack, Math
+💬 Ask me about MERN stack, Maths
 
 🖐️ also i’m currently open for a new job opportunity
 
@@ -19,6 +19,7 @@ I'm Daniel,i'm FullStack freelance with MERN Stack
 ### Currently working with:
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![Go](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
