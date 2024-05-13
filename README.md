@@ -1,16 +1,15 @@
 ### Hi there 👋
-I'm Daniel, I'm Backend Developer (Go, Nodejs)
+I'm Daniel, I'm DevOps & Backend Developer
 
 🌱 I'm computer science student at Universidad de Buenos Aires
 
-🔭 I’m currently working on [Software of South](https://south.software)
+ I’m currently working on [Software of South ☁️](https://south.software)
 
 ### Currently working with:
 **Languages:**
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 **📇 DataBases:** 
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql)
@@ -23,19 +22,21 @@ I'm Daniel, I'm Backend Developer (Go, Nodejs)
 
 **Deploy Tools:** 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![githubactions](https://img.shields.io/badge/-githubactions-black?style=flat-square&logo=githubactions)
-
+![Git Hub Actions](https://img.shields.io/badge/-githubactions-black?style=flat-square&logo=githubactions)
 
 **☁️ Cloud Services:**
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-orange?style=flat-square&logo=amazon-aws)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Google Cloud](https://img.shields.io/badge/googlecloud%20AWS-orange?style=flat-square&logo=googlecloud)
 
-
-**👁️ Frontend:**
+**👁️ Frameworks & Tools:**
+gin
+![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=gin)
+![Node](https://img.shields.io/badge/-nodedotjs-black?style=flat-square&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ### ⚡ Fun fact:
-I ❤️ love endurance sports, i'm marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
+I ❤️ love endurance sports, i'm ultra marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
 
 ### 📫 Connect with me
 <p align="left">
