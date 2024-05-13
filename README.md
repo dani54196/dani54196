@@ -27,12 +27,12 @@ I'm Daniel, I'm DevOps & Backend Developer
 **☁️ Cloud Services:**
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-orange?style=flat-square&logo=amazon-aws)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Google Cloud](https://img.shields.io/badge/googlecloud%20?style=flat-square&logo=googlecloud)
+![GCP](https://img.shields.io/badge/-GoogleCloud-white?style=flat-square&logo=googlecloud)
 
 **👁️ Frameworks & Tools:**
 gin
-![Gin](https://img.shields.io/badge/-Gin?style=flat-square&logo=gin)
-![Node](https://img.shields.io/badge/-nodedotjs?style=flat-square&logo=nodedotjs)
+![Gin](https://img.shields.io/badge/-Gin-blue?style=flat-square&logo=gin)
+![Node](https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ### ⚡ Fun fact:
