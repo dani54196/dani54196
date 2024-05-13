@@ -5,15 +5,7 @@ I'm Daniel, I'm Backend Developer (Go, Nodejs)
 
 🔭 I’m currently working on Software of South as a freelance
 
-🌱 I’m currently learning CI/CD tools
-
-👯 I’m looking to collaborate on Open Source
-
-🤔 I’m looking for help with Kubernetes
-
-💬 Ask me about MERN stack, Maths
-
-🖐️ also i’m currently open for a new job opportunity
+[Personal Page](https://south.software)
 
 
 ### Currently working with:
