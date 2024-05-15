@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Daniel, I'm DevOps & Backend Developer
 
-🌱 I'm computer science student at Universidad de Buenos Aires
+I'm computer science student at Universidad de Buenos Aires
 
  I’m currently working on [Software of South ☁️](https://south.software)
 
