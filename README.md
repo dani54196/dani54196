@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Daniel, I'm DevOps & Backend Developer
+I'm Daniel, I'm DevOps & Backend Developer (Golang Node)
 
 I'm computer science student at Universidad de Buenos Aires
 
