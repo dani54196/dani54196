@@ -9,7 +9,7 @@ I'm computer science student at Universidad de Buenos Aires
 **Languages:**
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&logo=gnubash)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 
 **📇 DataBases:** 
