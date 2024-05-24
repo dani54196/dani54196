@@ -8,6 +8,7 @@ I'm computer science student at Universidad de Buenos Aires
 ### Currently working with:
 **Languages:**
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
+![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&logo=gnubash)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 
@@ -21,7 +22,8 @@ I'm computer science student at Universidad de Buenos Aires
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
 
 **Deploy Tools:** 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0E2954?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-1F6E8C?style=flat-square&logo=docker)
 ![Git Hub Actions](https://img.shields.io/badge/-githubactions-black?style=flat-square&logo=githubactions)
 
 **☁️ Cloud Services:**
@@ -31,9 +33,9 @@ I'm computer science student at Universidad de Buenos Aires
 
 **👁️ Frameworks & Tools:**
 gin
-![Gin](https://img.shields.io/badge/-Gin-blue?style=flat-square&logo=gin)
-![Node](https://img.shields.io/badge/-Node-black?style=flat-square&logo=nodedotjs)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Gin](https://img.shields.io/badge/-Gin-0E2954?style=flat-square&logo=gin)
+![Node](https://img.shields.io/badge/-Node-008170?style=flat-square&logo=nodedotjs)
+![React](https://img.shields.io/badge/-React-CDE8E5?style=flat-square&logo=react)
 
 ### ⚡ Fun fact:
 I ❤️ love endurance sports, i'm ultra marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
