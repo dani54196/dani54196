@@ -24,7 +24,11 @@ I'm computer science student at Universidad de Buenos Aires
 **Deploy Tools:** 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0E2954?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-1F6E8C?style=flat-square&logo=docker)
-![Git Hub Actions](https://img.shields.io/badge/-githubactions-black?style=flat-square&logo=githubactions)
+![Git Hub Actions](https://img.shields.io/badge/-GHActions-CDE8E5?style=flat-square&logo=githubactions)
+![Terraform](https://img.shields.io/badge/-Terraform-240750?style=flat-square&logo=terraform)
+![Grafana](https://img.shields.io/badge/-Grafana-AF8260?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-803D3B?style=flat-square&logo=prometheus)
+
 
 **☁️ Cloud Services:**
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-orange?style=flat-square&logo=amazon-aws)
