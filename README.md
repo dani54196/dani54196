@@ -1,14 +1,26 @@
-### Hi there 👋
-I'm Daniel, I'm DevOps & Backend Developer (Golang Node)
+# About me
+## Daniel C. 
+🧑‍💻 I'm DevOps & Backend Developer (Golang Node) Freelance (Freelancer, fiverr, upWork, workana)
 
-I'm computer science student at Universidad de Buenos Aires
+📖 I'm computer science student at Universidad de Buenos Aires
 
-I’m currently working on [Software of South ☁️](https://south.software) 
-Check our services [Insta](https://www.instagram.com/softwareofsouth/)
+💻💼 I’m currently working on [Software of South ☁️](https://south.software)   
+➡️ Check our services & SAAS Apps on [Instagram](https://www.instagram.com/softwareofsouth/)
 
+👂 Open to get a Job as Devops
 
-### Currently working with:
-**Languages:**
+💬 Ask me about Cloud, Docker, Kubernetes or Go
+
+# Currently working with:
+**Deploy Tools:** 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0E2954?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-1F6E8C?style=flat-square&logo=docker)
+![Git Hub Actions](https://img.shields.io/badge/-GHActions-CDE8E5?style=flat-square&logo=githubactions)
+![Terraform](https://img.shields.io/badge/-Terraform-240750?style=flat-square&logo=terraform)
+![Grafana](https://img.shields.io/badge/-Grafana-AF8260?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-803D3B?style=flat-square&logo=prometheus)
+
+**Languages**
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&logo=gnubash)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
@@ -23,34 +35,25 @@ Check our services [Insta](https://www.instagram.com/softwareofsouth/)
 ![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
 
-**Deploy Tools:** 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0E2954?style=flat-square&logo=kubernetes)
-![Docker](https://img.shields.io/badge/-Docker-1F6E8C?style=flat-square&logo=docker)
-![Git Hub Actions](https://img.shields.io/badge/-GHActions-CDE8E5?style=flat-square&logo=githubactions)
-![Terraform](https://img.shields.io/badge/-Terraform-240750?style=flat-square&logo=terraform)
-![Grafana](https://img.shields.io/badge/-Grafana-AF8260?style=flat-square&logo=grafana)
-![Prometheus](https://img.shields.io/badge/-Prometheus-803D3B?style=flat-square&logo=prometheus)
-
-
 **☁️ Cloud Services:**
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-orange?style=flat-square&logo=amazon-aws)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![GCP](https://img.shields.io/badge/-GoogleCloud-white?style=flat-square&logo=googlecloud)
 
 **👁️ Frameworks & Tools:**
-gin
 ![Gin](https://img.shields.io/badge/-Gin-0E2954?style=flat-square&logo=gin)
 ![Node](https://img.shields.io/badge/-Node-008170?style=flat-square&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-CDE8E5?style=flat-square&logo=react)
 
 ### ⚡ Fun fact:
-I ❤️ love endurance sports, i'm ultra marathon runner 🏃 and triathlete 🏊 🚴‍♂️ 🏃
+I ❤️ love endurance sports, i'm ultra **marathon runner** 🏃 and triathlete 🏊 🚴‍♂️ 🏃
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/softwareofsouth/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+<a href="mailto:softwareofsouth@gmail.com">Email</a>   
+  
+<a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">Linkedin</a>
+
 
 
 <!--
