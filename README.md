@@ -47,6 +47,7 @@
 
 ### ⚡ Fun fact:
 I ❤️ love endurance sports, i'm ultra **marathon runner** 🏃 and triathlete 🏊 🚴‍♂️ 🏃
+I lost 30 kg
 
 ### 📫 Connect with me
 <p align="left">
