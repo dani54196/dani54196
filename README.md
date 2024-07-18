@@ -4,7 +4,7 @@
 
 📖 I'm computer science student at Universidad de Buenos Aires
 
-💻💼 I’m currently working on [Software of South ☁️](https://south.software)   
+💻💼 I’m currently working on [Software of South ☁️](https://southware.site)   
 ➡️ Check our services & SAAS Apps on [Instagram](https://www.instagram.com/softwareofsouth/)
 
 👂 Open to get a Job as Devops
