@@ -1,13 +1,11 @@
 # About me
 ## Daniel C. 
-🧑‍💻 I'm DevOps & Backend Developer (Golang Node) Freelance (Freelancer, fiverr, upWork, workana)
+🧑‍💻 I'm DevOps & Backend Developer (Golang Node) 
 
 📖 I'm computer science student at Universidad de Buenos Aires
 
-💻💼 I’m currently working on [Software of South ☁️](https://southware.site)   
+💻💼 I’m currently working on a Startup and [Software of South ☁️](https://southware.site) as freelancer
 ➡️ Check our services & SAAS Apps on [Instagram](https://www.instagram.com/softwareofsouth/)
-
-👂 Open to get a Job as Devops
 
 💬 Ask me about Cloud, Docker, Kubernetes or Go
 
