@@ -4,7 +4,7 @@
 
 📖 Computer science student at Universidad de Buenos Aires
 
-💻💼  Currently working at a Startup and running my own consulting firm Software of South ☁️ as freelancer
+💻💼  Currently working at a Startup and running my own consulting firm Software of South ☁️ as freelancer   
 ➡️ Check our services & SAAS Apps on [Instagram](https://www.instagram.com/softwareofsouth/)
 
 💬 Ask me about Cloud, Docker, Kubernetes or Go
@@ -49,8 +49,8 @@ I ❤️ endurance sports. I'm an ultra marathon runner 🏃 and a triathlete �
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:softwareofsouth@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">LinkedIn</a>
-  <a href="https://instagram.com/dani54196">Personal Instagram</a> |
+  <a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">LinkedIn</a>|
+  <a href="https://instagram.com/dani54196">Personal Instagram</a> 
 </p>
 
 <!--
