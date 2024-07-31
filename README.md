@@ -1,10 +1,10 @@
 # About me
 ## Daniel C. 
-🧑‍💻 I'm DevOps & Backend Developer (Golang Node) 
+🧑‍💻 DevOps & Backend Developer (Golang Node) 
 
-📖 I'm computer science student at Universidad de Buenos Aires
+📖 Computer science student at Universidad de Buenos Aires
 
-💻💼 I’m currently working on a Startup and [Software of South ☁️](https://southware.site) as freelancer
+💻💼  Currently working at a Startup and running my own consulting firm Software of South ☁️ as freelancer
 ➡️ Check our services & SAAS Apps on [Instagram](https://www.instagram.com/softwareofsouth/)
 
 💬 Ask me about Cloud, Docker, Kubernetes or Go
@@ -44,16 +44,14 @@
 ![React](https://img.shields.io/badge/-React-CDE8E5?style=flat-square&logo=react)
 
 ### ⚡ Fun fact:
-I ❤️ love endurance sports, i'm ultra **marathon runner** 🏃 and triathlete 🏊 🚴‍♂️ 🏃
-I lost 30 kg
+I ❤️ endurance sports. I'm an ultra marathon runner 🏃 and a triathlete 🏊 🚴‍♂️ 🏃. I’ve lost 30 kg through my journey!
 
 ### 📫 Connect with me
 <p align="left">
-<a href="mailto:softwareofsouth@gmail.com">Email</a>   
-  
-<a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">Linkedin</a>
-
-
+  <a href="mailto:softwareofsouth@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">LinkedIn</a>
+  <a href="https://instagram.com/dani54196">Personal Instagram</a> |
+</p>
 
 <!--
 **dani54196/dani54196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
