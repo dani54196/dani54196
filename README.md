@@ -49,7 +49,7 @@ I ❤️ endurance sports. I'm an ultra marathon runner 🏃 and a triathlete �
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:softwareofsouth@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">LinkedIn</a>|
+  <a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">LinkedIn</a> |
   <a href="https://instagram.com/dani54196">Personal Instagram</a> 
 </p>
 
