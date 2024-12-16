@@ -1,5 +1,5 @@
 # Daniel Cardozo 
-🧑‍💻 DevOps & Backend Developer (Golang & Node)    
+🧑‍💻 Site Reliability Engineering, i worked as DevOps & Backend Developer (Golang & Node)    
 Full-Stack Developer with a strong background in web applications, focusing on DevOps to improve deployment and system reliability.
 
 📖 Computer science student at Universidad de Buenos Aires
