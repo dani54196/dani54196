@@ -4,7 +4,8 @@ Full-Stack Developer with a strong background in web applications, focusing on D
 
 📖 Computer science student at Universidad de Buenos Aires
 
-💻💼  Currently working at a Startup and running my own consulting firm Software of South ☁️ as freelancer 
+💻💼  Currently working at a SRE in a cloud provider.   
+Also i worked in a startup and running my own consulting firm Software of South ☁️ as freelancer 
 [ Software of South Instagram](https://www.instagram.com/softwareofsouth/)
 
 **Deploy Tools:** 
