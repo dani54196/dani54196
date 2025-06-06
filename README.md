@@ -5,8 +5,6 @@ Full-Stack Developer with a strong background in web applications, focusing on D
 📖 Computer science student at Universidad de Buenos Aires
 
 💻💼  Currently working at a SRE in a cloud provider.   
-Also i worked in a startup and running my own consulting firm Software of South ☁️ as freelancer 
-[ Software of South Instagram](https://www.instagram.com/softwareofsouth/)
 
 **Deploy Tools:** 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0E2954?style=flat-square&logo=kubernetes)
@@ -65,7 +63,7 @@ I ❤️ endurance sports. I'm an ultra marathon runner 🏃 and a triathlete �
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="mailto:softwareofsouth@gmail.com">Email</a> |
+  <a href="mailto:dani54196@protonmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">LinkedIn</a> |
   <a href="https://instagram.com/dani54196">Personal Instagram</a> 
 </p>
