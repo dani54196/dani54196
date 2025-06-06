@@ -41,7 +41,6 @@ Full-Stack Developer with a strong background in web applications, focusing on D
 **Backend:**
 ![Gin](https://img.shields.io/badge/-Gin-0E2954?style=flat-square&logo=gin)
 ![Node.js](https://img.shields.io/badge/-Node.js-008170?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 ![Gorm](https://img.shields.io/badge/-Gorm-720E9E?style=flat-square&logo=go)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3)
