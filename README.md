@@ -1,80 +1,85 @@
-# Daniel Cardozo 
-🧑‍💻 Site Reliability Engineering, i worked as DevOps & Backend Developer (Golang & Node)    
-Full-Stack Developer with a strong background in web applications, focusing on DevOps to improve deployment and system reliability.
+# 👋 Hi, I'm Daniel Cardozo
 
-📖 Computer science student at Universidad de Buenos Aires
+🧑‍💻 **Site Reliability Engineer | DevOps | Platform Engineering**
 
-💻💼  Currently working at a SRE in a cloud provider.   
+I work on **production infrastructure**, focusing on reliability, automation, and improving how teams build and ship software.
 
-**Deploy Tools:** 
+Currently a **DevOps Engineer at AT&T**, building internal platform tools to manage **multi-cloud infrastructure (AWS, Azure, Oracle)** and streamline deployment workflows.
+
+---
+
+## ⚙️ What I do
+
+- Design and operate **cloud infrastructure in production**
+- Build internal platforms to **standardize deployments and workflows**
+- Automate infrastructure using **Terraform and cloud-native tooling**
+- Develop and maintain **CI/CD pipelines (GitHub Actions, ArgoCD)**
+- Improve **system reliability, observability, and incident response**
+- Build backend services in **Go** for internal tooling
+
+---
+
+## 🧠 Experience Highlights
+
+### 🏢 AT&T — DevOps Engineer
+- Built internal platform tooling to manage **multi-cloud environments**
+- Owned platform end-to-end: backend services, infra, and CI/CD
+- Reduced manual operations through automation and improved onboarding
+- Standardized deployment workflows across teams
+
+### ☁️ Huawei Cloud — Site Reliability Engineer
+- Operated **large-scale cloud infrastructure** (VMs, Kubernetes, autoscaling)
+- Worked on **incident response**, improving system reliability
+- Automated operational workflows and reduced manual effort
+- Implemented **cost optimization strategies**
+
+### 🏗️ Vertebrar — DevOps Engineer
+- Designed and deployed **AWS infrastructure for production**
+- Built CI/CD pipelines and automated infrastructure (Terraform)
+- Managed Kubernetes clusters and containerized workloads
+- Developed backend tooling for infrastructure operations
+
+---
+
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-white?style=flat-square&logo=googlecloud)
+![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-red?style=flat-square&logo=oracle)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0E2954?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-1F6E8C?style=flat-square&logo=docker)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx)
 
-**CI/CD:**
-![GitHub Actions](https://img.shields.io/badge/-GHActions-CDE8E5?style=flat-square&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/-Trivy-0078D4?style=flat-square&logo=trivy&logoColor=white)
+### ⚙️ Infrastructure as Code & CI/CD
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/-CloudFormation-orange?style=flat-square&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-CDE8E5?style=flat-square&logo=githubactions)
 ![Argo CD](https://img.shields.io/badge/-Argo%20CD-004D71?style=flat-square&logo=argo)
 
-**Monitoring:**
-![Grafana](https://img.shields.io/badge/-Grafana-AF8260?style=flat-square&logo=grafana)
-![Prometheus](https://img.shields.io/badge/-Prometheus-803D3B?style=flat-square&logo=prometheus)
-
-**Languages:**
+### 💻 Programming & Backend
 ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat-square&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-yellowgreen?style=flat-square&logo=Python)
 
-**Cloud Services:**
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-orange?style=flat-square&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GoogleCloud-white?style=flat-square&logo=googlecloud)
-
-**S.O.:**
-![Debian](https://img.shields.io/badge/-Debian-ff69b4?style=flat-square&logo=Debian)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-blueviolet?style=flat-square&logo=Ubuntu)
-
-**Backend:**
-![Gin](https://img.shields.io/badge/-Gin-0E2954?style=flat-square&logo=gin)
-![Node.js](https://img.shields.io/badge/-Node.js-008170?style=flat-square&logo=nodedotjs)
-![Gorm](https://img.shields.io/badge/-Gorm-720E9E?style=flat-square&logo=go)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3)
-
-**Databases:** 
+### 📊 Systems & Databases
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-CDE8E5?style=flat-square&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite)
-![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo)
+---
 
-### ⚡ Fun fact:
-I ❤️ endurance sports. I'm an ultra marathon runner 🏃 and a triathlete 🏊 🚴‍♂️ 🏃. I’ve lost 30 kg through my journey!
+## 🎓 Education
+📖 Computer Science — Universidad de Buenos Aires (3+ years completed)
 
-### 📫 Connect with me
-<p align="left">
-  <a href="mailto:dani54196@protonmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/daniel-cardozo-20b96a131/">LinkedIn</a> |
-  <a href="https://instagram.com/dani54196">Personal Instagram</a> 
-</p>
+---
 
-<!--
-**dani54196/dani54196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ About me
+Outside of tech, I’m into **endurance sports** — ultra marathon runner 🏃 and triathlete 🏊🚴‍♂️🏃  
+Lost 30kg through training and discipline.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
+## 📫 Contact
+- 📧 dani54196@protonmail.com  
+- 💼 https://linkedin.com/in/dani54196  
